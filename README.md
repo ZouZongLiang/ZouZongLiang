@@ -1,2 +1,6 @@
-![SCMIOT's github stats](https://github-readme-stats.vercel.app/api?username=scmiot&locale=cn&show_icons=true&langs_count=8&theme=radical")
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=scmiot&locale=cn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### SCMIOT
+
+- scmiot
 
